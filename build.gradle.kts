@@ -1,5 +1,3 @@
-import java.util.Properties
-
 val version = "0.0.1"
 
 defaultTasks("build")
@@ -13,8 +11,8 @@ allprojects {
     }
 
     tasks.withType<JavaCompile> {
-        sourceCompatibility = JavaVersion.VERSION_21.toString()
-        targetCompatibility = JavaVersion.VERSION_21.toString()
+        sourceCompatibility = JavaVersion.VERSION_17.toString()
+        targetCompatibility = JavaVersion.VERSION_17.toString()
     }
 
     dependencies {
