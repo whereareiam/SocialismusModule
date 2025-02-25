@@ -1,4 +1,4 @@
-![head](https://github.com/whereareiam/Socialismus/raw/dev/.github/assets/SocialismusPage-Head.png)
+![head](https://github.com/whereareiam/Socialismus/raw/dev/.github/assets/v2/Header.png)
 
 # Module Template
 
