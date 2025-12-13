@@ -2,8 +2,8 @@ package me.whereareiam.socialismus.module.template;
 
 import com.google.inject.Inject;
 import com.google.inject.name.Named;
-import me.whereareiam.socialismus.api.Logger;
-import me.whereareiam.socialismus.api.output.module.SocialisticModule;
+import me.whereareiam.socialismus.logging.Logger;
+import me.whereareiam.socialismus.module.SocialisticModule;
 
 import java.nio.file.Path;
 

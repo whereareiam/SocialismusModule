@@ -13,5 +13,15 @@
     "ALL"
   ],
   "dependencies": [],
+  "updater": {
+    "release": {
+      "provider": "GITHUB",
+      "id": "whereareiam/SocialismusModule"
+    },
+    "dev": {
+      "provider": "GITHUB",
+      "id": "whereareiam/SocialismusModule"
+    }
+  },
   "main": "me.whereareiam.socialismus.module.template.Module"
 }
