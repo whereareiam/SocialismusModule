@@ -1,4 +1,4 @@
-![head](https://github.com/whereareiam/Socialismus/raw/dev/.github/assets/v2/Header.png)
+![Header](https://github.com/whereareiam/Socialismus/raw/dev/.github/assets/v2/Header.png)
 
 # Module Template
 
@@ -7,7 +7,7 @@ into your IDE. It contains a basic code for a module that can be used as a start
 
 # Documentation
 
-Can be found [here](https://github.com/whereareiam/Socialismus/wiki).
+Can be found [here](https://socialismus.whereareiam.me/).
 
 # Statistics
 

@@ -1,13 +1,14 @@
 {
-  "name": "SocialismusModule",
-  "version": "0.0.1",
+  "name": "@projectName@",
+  "version": "@projectVersion@",
   "authors": [
     "whereareiam"
   ],
   "supportedPlatforms": [
     "VELOCITY",
     "PAPER",
-    "BUKKIT"
+    "BUKKIT",
+    "FOLIA"
   ],
   "supportedVersions": [
     "ALL"
